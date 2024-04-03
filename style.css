@@ -1,0 +1,36 @@
+body {
+    background: url(pool.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+
+#mc_embed_shell, #mc_embed_signup {
+    background: transparent !important;
+    border-radius: 10px;
+    padding: 1px;
+}
+
+#mc_embed_signup {
+    background: rgba(242, 243, 244, 0.8) !important;
+    margin: auto;
+    width: 100%;
+    font-family: 'Gambado-Sans', sans-serif;
+}
+
+.helper_text {
+    background: transparent !important;
+    color: dimgray !important;
+    margin-top: 5px;
+}
+
+.bg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    /* max-width: 1000px; */
+}
